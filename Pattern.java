@@ -1,4 +1,4 @@
-public class Main
+public class Pattern
 {
     
     public void printPattern(int n){
@@ -28,7 +28,7 @@ public class Main
         
         int n=5;
         
-        Main p=new Main();
+        Pattern p=new Pattern();
         p.printPattern(n);
     
    
